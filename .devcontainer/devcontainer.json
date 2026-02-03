@@ -1,8 +1,0 @@
-{
-  "host": {
-    "requirements": {
-      "cpus": 16,
-      "memory": "32gb"
-    }
-  }
-}
